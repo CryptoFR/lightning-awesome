@@ -68,6 +68,10 @@ https://twitter.com/bitmexresearch/status/1031814678371069952
 Conductor:
 https://lightningconductor.net/
 
+## LN Stats & metrics
+
+- https://lnmetrics.opdup.com/
+
 ## Altcoins with LN support
 
 | Ticker	  | Name	  | lightning  | LND  | Else  |
