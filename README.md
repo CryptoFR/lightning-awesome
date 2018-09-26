@@ -1,1 +1,1 @@
-# lightning-awesome
+# Lightning Network related resources
