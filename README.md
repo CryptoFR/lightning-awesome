@@ -1,42 +1,43 @@
 # Lightning Network related resources
 
 ## LN-testnet-list
-List of ressources for Bitcoin Lightning Network on testnet
+Liste de ressources pour Lightning Network
 
 ### Bitcoin testnet:
 
-- Testnet Bitcoin Faucet (pas LN):
+- Faucets Testnet Bitcoin (pas LN):
   - https://testnet.manu.backend.hamburg/faucet
   - https://testnet.coinfaucet.eu/en/
   - http://bitcoinfaucet.uo1.net/
 
-- Bitcoin testnet explorer:
+- Explorers Bitcoin testnet:
   - https://testnet.blockchain.info
   - https://live.blockcypher.com/btc-testnet
   - https://testnet.smartbit.com.au/
   
 ### Bitcoin Lightning Network testnet:
+Les explorers et les représentations graphiques ont le point de vue de quelques nodes (et ils ne vérifient en temps-réel le statut des nodes et des channels).
 
-- LN testnet explorers:
+- Explorers LN testnet:
   - https://1ml.com/testnet
   - https://raito.systemb.co/
 
-- LN Graphs (from point of view of some nodes):
+- Représentations graphiques du réseau de LN:
   - https://explorer.acinq.co/#/
   - https://demo1.lndexplorer.com/
   - https://demo2.lndexplorer.com/
 
 - Wallets:
   - https://htlc.me/
-  Remark: https://www.reddit.com/r/btc/comments/7pqkz1/htlcme_is_not_a_real_lightning_wallet_its_a/
+  Remarque: https://www.reddit.com/r/btc/comments/7pqkz1/htlcme_is_not_a_real_lightning_wallet_its_a/
   - Eclair testnet android Wallet: https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet&hl=en
   - Plug-in pour navigateur web (comparable à metamask): https://lightningjoule.com/
   - Interface graphique coss-plateforme (Windows/macOS/Linux) pour lancer vos noeuds BTC/LN: https://github.com/PierreRochard/node-launcher Tuto: https://medium.com/@pierre_rochard/windows-macos-lightning-network-284bd5034340
   
-- LN faucet:
+- Faucet LN:
   - https://faucet.lightning.community/
 
-- Testnet stores:
+- Boutiques en ligne avec LN testnet:
   - https://testnet.millionbitcoinhomepage.net/
   - https://testnet.satoshis.place/
   - http://thunderdice.ws/
@@ -48,15 +49,14 @@ List of ressources for Bitcoin Lightning Network on testnet
   - https://lnroute.com/
   - https://github.com/tmlee/awesome-lightning-network
 
-## Exchanges with LN support
+## Exchanges avec support de LN
 - https://sparkswap.com/
 https://sparkswap.com/docs/getting-started/installation#testnet-btc-ltc
 
 - https://mercuriex.com/auth/
 https://api.mercuriex.com/
 
-- https://zigzag.io/#/
-+ Testnet enabled: https://testnet.zigzag.io/#/
+- https://zigzag.io/#/ Testnet enabled: https://testnet.zigzag.io/#/
 
 - https://btcduke.com/?lang=en
 - https://coingate.com/lightning-network
@@ -72,11 +72,11 @@ https://lightningconductor.net/
 
 - Buda.com exchange: https://www.buda.com/blog/posts/prueba-lightning-network-en-buda.com/
 
-## LN Stats & metrics
+## LN Statistiques & métriques
 
 - https://lnmetrics.opdup.com/
 
-## Altcoins with LN support
+## Altcoins avec support de LN
 
 | Ticker	  | Name	  | lightning  | LND  | Else  |
 |----------|--------|--------------|------|-------|
@@ -108,8 +108,8 @@ https://lightningconductor.net/
 Sources:
 - https://bitcointalk.org/index.php?topic=1777136.0
 - https://bitcointalk.org/index.php?topic=1891745.0
-- Forks/network on github's of lnd and c-lightning
+- Forks/network des githubs de lnd et c-lightning
 - https://twitter.com/Beetcoin/status/984572888194977792
 
-## Compatibility between coins for onchain and offchain swaps:
+## Compatibilité entre les coins pour les swaps onchain et offchain:
 https://swapready.net
