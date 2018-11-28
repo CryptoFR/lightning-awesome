@@ -30,7 +30,9 @@ List of ressources for Bitcoin Lightning Network on testnet
   - https://htlc.me/
   Remark: https://www.reddit.com/r/btc/comments/7pqkz1/htlcme_is_not_a_real_lightning_wallet_its_a/
   - Eclair testnet android Wallet: https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet&hl=en
-
+  - Plug-in pour navigateur web (comparable à metamask): https://lightningjoule.com/
+  - Interface graphique coss-plateforme (Windows/macOS/Linux) pour lancer vos noeuds BTC/LN: https://github.com/PierreRochard/node-launcher
+  
 - LN faucet:
   - https://faucet.lightning.community/
 
