@@ -31,7 +31,7 @@ List of ressources for Bitcoin Lightning Network on testnet
   Remark: https://www.reddit.com/r/btc/comments/7pqkz1/htlcme_is_not_a_real_lightning_wallet_its_a/
   - Eclair testnet android Wallet: https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet&hl=en
   - Plug-in pour navigateur web (comparable à metamask): https://lightningjoule.com/
-  - Interface graphique coss-plateforme (Windows/macOS/Linux) pour lancer vos noeuds BTC/LN: https://github.com/PierreRochard/node-launcher
+  - Interface graphique coss-plateforme (Windows/macOS/Linux) pour lancer vos noeuds BTC/LN: https://github.com/PierreRochard/node-launcher Tuto: https://medium.com/@pierre_rochard/windows-macos-lightning-network-284bd5034340
   
 - LN faucet:
   - https://faucet.lightning.community/
@@ -49,26 +49,28 @@ List of ressources for Bitcoin Lightning Network on testnet
   - https://github.com/tmlee/awesome-lightning-network
 
 ## Exchanges with LN support
-https://sparkswap.com/
+- https://sparkswap.com/
 https://sparkswap.com/docs/getting-started/installation#testnet-btc-ltc
 
-https://mercuriex.com/auth/
+- https://mercuriex.com/auth/
 https://api.mercuriex.com/
 
-https://zigzag.io/#/
+- https://zigzag.io/#/
 + Testnet enabled: https://testnet.zigzag.io/#/
 
-https://btcduke.com/?lang=en
-https://coingate.com/lightning-network
-https://neverfiat.com/
+- https://btcduke.com/?lang=en
+- https://coingate.com/lightning-network
+- https://neverfiat.com/
 
-Bitmex research (testnet):
+- Bitmex research (testnet):
 https://bitcoinexchangeguide.com/bitmex-research-just-setup-a-lightning-network-node-to-test-deposits-withdrawals/
 https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2
 https://twitter.com/bitmexresearch/status/1031814678371069952
 
-Conductor:
+- Conductor:
 https://lightningconductor.net/
+
+- Buda.com exchange: https://www.buda.com/blog/posts/prueba-lightning-network-en-buda.com/
 
 ## LN Stats & metrics
 
