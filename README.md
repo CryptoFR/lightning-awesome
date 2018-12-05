@@ -18,6 +18,8 @@ Liste de ressources pour Lightning Network
 ### Bitcoin Lightning Network testnet:
 Les explorers et les représentations graphiques ont le point de vue de quelques nodes (et ils ne vérifient en temps-réel le statut des nodes et des channels).
 
+- Tuto en français: https://journalducoin.com/bitcoin/bitcoin-installer-lightning-network/
+
 - Explorers LN testnet:
   - https://1ml.com/testnet
   - https://raito.systemb.co/
