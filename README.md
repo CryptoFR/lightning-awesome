@@ -6,6 +6,8 @@ Liste de ressources pour Lightning Network
 ### Bitcoin testnet:
 
 - Faucets Testnet Bitcoin (pas LN):
+  - https://testnet-faucet.mempool.co/
+  - https://coinfaucet.eu/en/btc-testnet/
   - https://testnet.manu.backend.hamburg/faucet
   - https://testnet.coinfaucet.eu/en/
   - http://bitcoinfaucet.uo1.net/
