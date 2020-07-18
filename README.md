@@ -38,8 +38,9 @@ Les explorers et les représentations graphiques ont le point de vue de quelques
   - Plug-in pour navigateur web (comparable à metamask): https://lightningjoule.com/
   - Interface graphique coss-plateforme (Windows/macOS/Linux) pour lancer vos noeuds BTC/LN: https://github.com/PierreRochard/node-launcher Tuto: https://medium.com/@pierre_rochard/windows-macos-lightning-network-284bd5034340
   
-- Faucet LN:
+- Faucet LN (compatible LND):
   - https://faucet.lightning.community/
+  Tutorial pour l'utiliser: https://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/
 
 - Boutiques en ligne avec LN testnet:
   - https://testnet.millionbitcoinhomepage.net/
