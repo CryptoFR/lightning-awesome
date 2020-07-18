@@ -40,6 +40,7 @@ Les explorers et les représentations graphiques ont le point de vue de quelques
   
 - Faucet LN (compatible LND):
   - https://faucet.lightning.community/
+  
   Tutorial pour l'utiliser: https://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/
 
 - Boutiques en ligne avec LN testnet:
@@ -55,10 +56,12 @@ Les explorers et les représentations graphiques ont le point de vue de quelques
   - https://github.com/tmlee/awesome-lightning-network
 
 ## Exchanges avec support de LN
-- https://sparkswap.com/
+- [Fermé] https://sparkswap.com/
+
 https://sparkswap.com/docs/getting-started/installation#testnet-btc-ltc
 
 - https://mercuriex.com/auth/
+
 https://api.mercuriex.com/
 
 - https://zigzag.io/#/ Testnet enabled: https://testnet.zigzag.io/#/
